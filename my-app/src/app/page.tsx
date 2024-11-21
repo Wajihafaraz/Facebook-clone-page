@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="bg-gray-100 h-screen flex flex-wrap justify-center items-center px-4">
-      {/* left side */}
+      {/* left side. */}
       <div className="text-3xl w-full md:w-1/2 px-6 md:px-10 text-center md:text-left mb-6 md:mb-0">
         <Image 
           src="/pictures/Facebook logo.svg" 
